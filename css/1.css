@@ -1,0 +1,25 @@
+ body {
+      text-align: center;
+      background: url("../images/SEP.jpg");
+      background-size: cover;
+      background-position: center;
+      font-family: Helvetica;
+      font-weight: bold;
+    }
+  h1 {
+    font-size: 40px;
+  }
+  p {
+    font-size: 25px;
+  }
+   input {
+      border: 0;
+      padding: 6px;
+      font-size: px;
+      background-color: pink;
+      color: purple;
+    }
+    input[type="submit"] {
+      background: #330000;
+      color: pink;
+    }
